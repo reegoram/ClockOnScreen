@@ -8,6 +8,6 @@ I developed this clock in order to help watching my time.
 
 ## Installation
 Just Windows 10 x64 tested, but it might work in most of the Windows OS.
-If you got any issue, please report it [here]("https://github.com/reegoram/ClockOnScreen/issues/new").
+If you got any issue, please report it [here](https://github.com/reegoram/ClockOnScreen/issues/new).
 
 Execute **setup.exe** at [/Clock.UI/publish/](https://github.com/reegoram/ClockOnScreen/tree/master/Clock.UI/publish)
